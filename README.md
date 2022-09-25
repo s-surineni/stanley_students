@@ -1,0 +1,1 @@
+* Django admin `python manage.py createsuperuser --email lo@ca.al --username local`
